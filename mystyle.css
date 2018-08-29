@@ -7,13 +7,14 @@ body{
 	text-align: center;
 	color: white;
 	border: 2px solid blue;
-	margin: auto;
+	width: 500px;
 	/*margin: 100px 500px 100px 450px;*/
 }
 .content{
 	background-color: linen;
 	/*margin: 90px 500px 750px 450px;*/
 	border: 4px solid linen;
+	width: 490px;
 	padding: 2px;
 	display: block;
 }
