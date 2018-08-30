@@ -74,7 +74,23 @@ input[type=text], input[type=password] {
     border-radius: 3px;
     box-sizing: border-box;
 }
-p {
-	width: 40%;
-	margin: 20px;
+.link1{
+	background-color: white;
+	width: 366px;
+
 }
+.forgot1{
+	width: 100%;
+	border:0px solid white;
+	padding-top: 5px;
+	text-align: right;
+	margin-left: 20px;
+}
+.sign{
+	width: 100%;
+	border:0px solid white;
+	padding-top: 10px;
+	margin-left: 115px;
+}
+	
+
