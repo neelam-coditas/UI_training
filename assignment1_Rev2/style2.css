@@ -1,5 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 body{
-	background-color: #f6f6f6;
+	
 }
 .wrap{
 	border-radius: 3px;
@@ -23,7 +27,7 @@ body{
 .content1 .form {
 	margin-bottom: 20px;
 }
- input{
+.content1 .form input{
 	border-radius: 3px;
 	border-width: 1px;
 	border-color:  #e8e8e8;
